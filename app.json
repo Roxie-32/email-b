@@ -1,0 +1,16 @@
+{
+    "id": "3d9b4374-b8ac-4f87-858d-2fd9ac11a578",
+    "version": "0.0.1",
+    "requiredApiVersion": "1.46.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "email",
+        "homepage": "email",
+        "support": "email"
+    },
+    "name": "email-bridge",
+    "nameSlug": "email-bridge",
+    "classFile": "EmailBridgeApp.ts",
+    "description": "email",
+    "implements": []
+}
